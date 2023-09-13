@@ -8,7 +8,7 @@ Feel free to check out my website @ [meyassu.com](meyassu.com).
 
 Cheers!
 
-Note: many repositories here are private due to ongoing NDAs
+> Note: many repositories here are private due to ongoing NDAs
 
 <!--
 **meyassu/meyassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
