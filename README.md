@@ -7,7 +7,7 @@ Given the early stage of my career, I'm eager to branch out from my past domains
 Feel free to check out my website @ [meyassu.com](meyassu.com).
 
 Cheers!
-
+&nbsp;
 > Note: many repositories here are private due to ongoing NDAs
 
 <!--
