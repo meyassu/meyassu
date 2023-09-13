@@ -4,7 +4,7 @@ I'm Matthias Eyassu and I enjoy building software with a clear and positive soci
 
 Given the early stage of my career, I'm eager to branch out from my past domains of work in order to learn as much as possible as quickly as possible.
 
-Feel free to check out my website @ meyassu.com.
+Feel free to check out my website @ [meyassu.com](meyassu.com).
 
 Cheers!
 
